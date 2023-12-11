@@ -1,0 +1,670 @@
+{
+  "screens": {
+    "touchtable_1": {
+      "title": "Future of Networked Intelligence",
+      "topics": [
+        {
+          "topicId": "art-int",
+          "title": "Artificial Intelligence",
+          "intro": "In 1950, Claude Shannon created a mechanical mouse capable of navigating a simple maze. Nearly 20 years later, Ken Thompson and Joe Condon invented Belle, the world’s first chess playing computer. Today, these early systems form the basis for intelligent agents. Bell Labs is inventing the future of automation.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "Industrial and network automation is enabled by the proliferation of artificial intelligence systems that connect measurement and action. These techniques come together to produce the fully cognitive network that continually adapts to changing application demands to deliver a secure, reliable, optimal customer experience. These techniques come together to produce the fully cognitive enterprise that continually adapts to changing personal demands to deliver a secure reliable and optimal enterprise."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/art-int.jpg",
+                      "caption": "1950 Claude Shannon demonstrates machine learning with a mechanical mouse that can learn to solve a maze and remember the solution."
+                    }
+                  },
+                  {
+                    "figure": {
+                      "src": "img/art-int-2.jpg",
+                      "caption": "Joe Condon (left) and Ken Thompson with “Belle“ their chess playing computer in 1978."
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 720,
+              "y": 320
+            }
+          },
+          "artifact": [
+            {
+              "_comment": "caption lines are unescaped HTML, so you can <br>",
+              "caption": "Theseus, Shannon's mechanical mouse<br>Original chess pieces from Belle",
+              "loc": {
+                "_comment": "units in pixels. top left is 0,0",
+                "x": 460,
+                "y": 800,
+                "d": 380
+              },
+              "show": true
+            }
+          ],
+          "slides": []
+        },
+        {
+          "title": "Machine Learning",
+          "topicId": "mac-lea",
+          "intro": "In 1989, Yann LaCun pioneered convolutional neural networks for hand written digit recognition. Today, they form the basis for applications built on modern deep learning systems used for image recognition, automatic translation, and many other applications. Bell Labs is inventing the future of understanding.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "Machine learning systems provide a compact representation of knowledge and meaning. We leverage this representation to better understand network events and customer experience, to optimize complex systems, and to contextualize personal search and data presentation."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/mac-lea.jpg",
+                      "caption": "The 1990s LeNet number recognizer - using a convolutional neural network (CNN) for digit recognition.\n"
+                    }
+                  },
+                  {
+                    "figure": {
+                      "src": "img/mac-lea2.jpg",
+                      "caption": " 1952 \"Audrey\" as the device is known, the first voice recognition device, has a special circuit which automatically determines which of ten numbers has been spoken into an ordinary telephone. \n"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "artifact": [
+            {
+              "loc": {
+                "_comment": "no artifact for now",
+                "x": 1650,
+                "y": 130,
+                "d": 1
+              },
+              "show": false
+            }
+          ],
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 360,
+              "y": 170
+            }
+          }
+        },
+        {
+          "topicId": "inf-the",
+          "title": "Information Theory",
+          "intro": "In 1948, Claude Shannon defined for the first time the fundamental limit of information carrying capacity for a communication channel.  Today, \"Information Theory\" guides the development of all modern communications systems.  In Bell Labs, we are inventing the future of information. \n\n\n",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "Information Theory defines the fundamental connection between information and the data features used to encode that information.  We use these concepts to develop highly effective wireless and wireline communications channels, nearly optimal compressed sensing methods for measuring our world, and new models of similarity used to help convert data into knowledge.  \n"
+                  },
+                  {
+                    "figure": {
+                      "src": "img/inf-the-2.jpg",
+                      "caption": "Claude Shannon, the originator of Information Theory, at the board, and Dave Hagelbarger work out some equations needed.  Their 1955 projects include work on automata-advanced type of computing machines which are able to perform various \"thought\" functions.\n"
+                    }
+                  },
+                  {
+                    "figure": {
+                      "src": "img/inf-the-1.jpg",
+                      "caption": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 100,
+              "y": 100.00000000000001
+            }
+          },
+          "_comment": "For topics with no artifacts, we still define an artifact to set the topic title location but we set show to be false to not shw aperture, we can also have multiple artifacts",
+          "artifact": [
+            {
+              "caption": "Original printing of Claude Shannon’s 1948 paper on Information Theory",
+              "loc": {
+                "_comment": "These units are in pixels. top left corner of the screen is 0,0 d is the diameter",
+                "x": 1698.2246822468228,
+                "y": 572.2878228782287,
+                "d": 425
+              },
+              "show": true
+            }
+          ]
+        },
+        {
+          "title": "Augmented Intelligence",
+          "topicId": "int-dev",
+          "intro": "Over the last 60 years, Bell Labs has defined the fundamental properties of information, created advanced neural networks, and made automated systems to leverage these advances. Today, these techniques form the basis for augmenting human intelligence. Bell Labs is inventing the future of human augmentation. ",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "figure": {
+                      "src": "img/int-dev.jpg",
+                      "caption": "Nuudle:  An interactive assisted thinking tool designed highlight associations between data with the goal of augmenting human intelligence.\n"
+                    }
+                  },
+                  {
+                    "text": "Assisted thinking tools that draw on the vast amounts of available data to augment human intelligence.    We are building assisted thinking tools that augment a users ability to explore, compare and decide.   These tools enable humans to think faster, more creatively and more well informed to create new knowledge, understanding and optimize decision making.\n"
+                  },
+                  {
+                    "figure": {
+                      "src": "img/int-dev2.jpg",
+                      "caption": "Nuudle:  An interactive assisted thinking tool designed highlight associations between data with the goal of augmenting human intelligence.\n"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "artifact": [
+            {
+              "_comment": "no artifact",
+              "loc": {
+                "x": 200,
+                "y": 200,
+                "d": 1
+              },
+              "show": false
+            }
+          ],
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 720,
+              "y": 250
+            }
+          }
+        }
+      ]
+    },
+    "touchtable_2": {
+      "title": "Networks of Interaction",
+      "topics": [
+        {
+          "topicId": "hol-com",
+          "title": "Holistic Communication",
+          "intro": "In 1876, Alexander Graham Bell invented the telephone, sparking a revolution in human communication.  Today in Bell Labs, we are inventing the future of human interactivity by building new devices, new protocols, and software to enable an era of holistic communication.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "Today, wireless and fixed networks supporting ubiquitous messaging and IP-based calling has brought us all closer together—connecting people, devices, information, and the world."
+                  },
+                  {
+                    "text:": ""
+                  },
+                  {
+                    "figure": {
+                      "src": "img/hol-com-1.jpg",
+                      "caption": " Partial view of the OCT Optical Engine and (inset) a detail of the MEMS mirror and 4 thermal actuators."
+                    }
+                  },
+                  {
+                    "text:": ""
+                  },
+                  {
+                    "text": "We are creating a world where the complete communication of human needs and experience is paramount, with the technology that enables becoming seamlessly integrated with ourselves and our environment. These new human augmentation devices will help us \"see\" both inside the human body and well beyond it, creating extrasensory perception, as well as allowing us to control our world with the simplest gesture or even thought."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/hol-com.jpg",
+                      "caption": " Schematic diagram of the compact OCT system, showing the main components of the Optics Engine.  "
+                    }
+                  },
+                  {
+                    "text": "We are reinventing the smart phone to create a new set of wearable devices that:"
+                  },
+                  {
+                    "text": "a) continuously monitor our health and well-being by non-invasively seeing under the skin"
+                  },
+                  {
+                    "text": "b) allow us to communicate privately through haptic languages"
+                  },
+                  {
+                    "text": "c) provide us with a discrete virtual personal assistant that continuously directs, informs and advises our actions"
+                  },
+                  {
+                    "text": "d) allow us to control any device or machine or our physical world with natural gestures."
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 750,
+              "y": 80
+            }
+          },
+          "artifact": [
+            {
+              "caption": "Ear Buds",
+              "loc": {
+                "x": 260,
+                "y": 825,
+                "d": 1
+              },
+              "show": false
+            },
+            {
+              "caption": "Bell Labs Prototype Wearable - Sleeve",
+              "loc": {
+                "x": 390,
+                "y": 420,
+                "d": 426
+              },
+              "show": true
+            },
+            {
+              "caption": "Optical Coherent Tomography (OCT) System",
+              "loc": {
+                "x": 1627,
+                "y": 830,
+                "d": 175
+              },
+              "show": true
+            }
+          ]
+        },
+        {
+          "topicId": "vir-tel",
+          "title": "Virtual Teleportation",
+          "intro": "In the 1980s, Bell Labs invented digital video, leading to a new world of digital media and content sharing. Today in Bell Labs, we are inventing the future of content with new methods of sensing, transporting, integrating, and displaying truly immersive virtual and augmented content and realities.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "figure": {
+                      "src": "img/vir-tel.png",
+                      "caption": "Three users are receiving individual copies of the same 4K HD video stream, and each user needs almost 15Mbps bandwidth to download the content. However, each user is viewing only a small portion of the image (see colored circles).  Therefore, most of the transmitted content is unused."
+                    }
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "text": "Today, we have ubiquitous availability to diverse content that can be explored through a wide variety of digital devices.  We are creating new types of digital content defined not only by high quality audio and video, but also by representations of the full range of human sensations and emotions.  Using high resolution images that capture every point of view, combined with massively distributed cloud-based processing and context-based selection of the optimum perspective, we are able to send ultrahigh resolution views (16k pixels) using the minimum network resources to produce mixed reality experiences that seamlessly combine our digital and physical worlds. These systems enable a new level of human awareness that effectively allows the transfer and transport of any experience over any distance to anyone or anything."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/vir-tel-1.png",
+                      "caption": "By monitoring each user's gaze, our mixed reality system components--executing in a local edge cloud--process the video stream and send to each user only the 4K HD portion within current view.  The other content (shown as a black region) is not sent or sent at reduced resolution.  In this case, each user needs less than 5Mbps bandwidth. PHOTOGRAPH 9 Real-time dynamic 3D capture, model creation and rendering using only two low cost cameras."
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 200,
+              "y": 150
+            }
+          },
+          "artifact": [
+            {
+              "_comment": "no artifact",
+              "loc": {
+                "x": 1430,
+                "y": 625,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        },
+        {
+          "topicId": "cog-sys",
+          "title": "Cognitive Systems",
+          "intro": "In the 1970s, Bell Labs revolutionized the design of computer operating systems with the invention of UNIX. Today in Bell Labs, we are inventing the future of digital systems by creating cognitive operating systems to manage the operation of all cyberphysical systems and building computer-augmented code to automate the creation of software that runs on these OS's.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "Today, Unix and its extensive family of derived OS's power everything from smartphones to personal computers to web-scale datacenters—enabling the digital world of today."
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "video": {
+                      "src": "video/cog-sys.mp4",
+                      "caption": ""
+                    }
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "text": "At Bell Labs we are creating a cognitive, distributed, self-managed dynamic digital world.  Our artificial intelligent, computer augmented code generation enables new software to be produced instantaneously, for any new service whether it be a consumer application or an industrial automation service. Cognitive operating systems will leverage machine learning and sophisticated new algorithms to automate the execution of all applications and dynamically mange the resources they need within microseconds.  This is achieved in tandem with the flexible reconfiguration of massive-scale interconnections within data centers by photonic cross-connects using micro-machined electromechanical machines (MEMs) and optical switching to reduce the latency to that imposed by the speed of light."
+                  },
+                  {
+                    "text": "The video above shows the monitor control screen of a cognitive cloud's self-configuration module during an initial service measurement process.  The configuration software automatically probes and evaluates the performance of the components of a cloud-based service (OneApp).  As the video begins, the OneApp components are represented as unrelated blocks of code. When the configuration module begins measuring the service performance, it identifies and illustrates relationships among the components.  Automatically generated stress tests determine the critical parameters for each service component and measure performance bottlenecks.  As the configuration module gathers these data, it creates a model of the service, and it uses this model to manage autonomously the resources used by the service; it scales resource allocations up or down automatically to meet service demand.  This control function executes without human intervention."
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 500,
+              "y": 350
+            }
+          },
+          "artifact": [
+            {
+              "_comment": "no artifact",
+              "loc": {
+                "x": 390,
+                "y": 220,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        },
+        {
+          "topicId": "qua-com",
+          "title": "Quantum Computing",
+          "intro": "In 1947, Bell Labs invented transistor - probably the most important invention of the 20th century that forever changed human existence. In Bell Labs, we are inventing transistor for 21st century - a quantum bit (qubit), a computer based on which will exponentially outperform even the most powerful supercomputers of today for critical new problem spaces.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "Today we are creating a special kind of qubit, a topological qubit, which is ideally suited to build a large-scale quantum computer. Unlike a classical binary coded bit which can be either in a zero or one state, a qubit can simultaneously be in a continuum of states between zero and one; an N bit system can be in one of 2^N states, while an N qubit system will simultaneously be in all 2^N states, or quantum superposition. The tremendous power of a quantum computers comes from its ability to compute on all these states at once, but it reduces to a classical computer if this superposition is perturbed by any external electromagnetic disturbance. The Bell Labs topological qubits are intrinsically immune to such disturbances by design and their state can only be changed by specific choreographed 'braiding' motion of charge, making them uniquely suited to build large many-qubit quantum computers. "
+                  },
+                  {
+                    "figure": {
+                      "src": "img/qua-com.jpg",
+                      "caption": " Bell Labs researcher in the Quantum Computing laboratory"
+                    }
+                  },
+                  {
+                    "figure": {
+                      "src": "img/qua-com-1.png",
+                      "caption": "Demonstrating the \"braiding\" motion of side to dot charging."
+                    }
+                  },
+                  {
+                    "text": "Algorithms designed for classical computers cannot harness the power of quantum computers - we need special quantum algorithms. The two leading quantum algorithms were invented at Bell Labs, one for search of massive datasets (Grover) and the other for factorization of prime numbers (Shor)."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/qua-com-2.png",
+                      "caption": " The \"Grover\" search algorithm in operation.  "
+                    }
+                  },
+                  {
+                    "figure": {
+                      "src": "img/qua-com-3.png",
+                      "caption": " Shor's factoring algoithm in operation."
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 320,
+              "y": 300
+            }
+          },
+          "artifact": [
+            {
+              "_comment": "no artifact",
+              "loc": {
+                "x": 1550,
+                "y": 200,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        }
+      ]
+    },
+    "touchtable_3": {
+      "title": "Network Architecture for the 2030s",
+      "topics": [
+        {
+          "topicId": "fix-acc",
+          "title": "Essential Fabric",
+          "intro": "The Essential Fabric is the secure, seamless cross-domain network that provides essential connectivity for humans, machines, and future industries. The fabric will need to massively scale in capacity while providing deterministic and dynamic operation for new compute-intensive applications.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "figure": {
+                      "src": "img/network_fabric_600.jpg",
+                      "caption": "Fig. 1. A future vision of the essential fabric with coherent modulation, spectral superchannels, bundles of multiple fibers, component integration and SDN control.\n"
+                    }
+                  },
+                  {
+                    "text": "Massive Spatial Scaling of Network Fabric: Bell Labs has been on the forefront of optical communications going back to the conception of the laser in 1958 by Schawlow and Townes, launching a new scientific field and opening the door to a multibillion-dollar industry. Pioneering work by Desurvire and Giles on the erbium-doped fiber amplifier at Bell Labs allowed multiple wavelengths to be amplified on a single fiber, called wavelength-division multiplexing. With the introduction of coherent modulation (i.e., using light amplitude and phase) in optics in 2010(?), the fundamental limit of information that can be carried in a single-mode fiber, first derived by Shannon at Bell Labs, has been reached for optical amplifiers in use today."
+                  },
+                  {
+                    "text": "Therefore, new approaches leveraging scaling in the spatial dimension will be required to satisfy the undiminished growth of network and datacenter traffic demands.  The shift to optical spatial  division multiplexing will force advanced component integration to drive sub-linear cost scaling and new network switching architectures to absorb the scale and parallelism.  Likewise, the packet switching layer must also leverage spatial parallelism in the form of large numbers of streamlined physical switches scalably controlled and optimized by a robust, centralized software-defined networking (SDN) control plane (see Fig. 1). "
+                  },
+                  {
+                    "text": "The ultimate limit for packing the highest information density into optical fibers can be achieved by multiplexing data on different, spatially overlapping modes in multi-mode optical fibers. Researchers at Bell Labs have invented a device called the multiplane lightwave converter that transforms light from multiple single-mode fibers into modes that can be simultaneously carried in the small area of a single multi-mode fiber"
+                  },
+                  {
+                    "text": "Deterministic Networking: As stringent industrial IoT applications, latency sensitive infotainment, cloud server disaggregation and RAN disaggregation gain traction, high performance and predictable connectivity will become essential to enable them.\n\nDynamic IP/Optical Networking: While the IP network layer is inherently flexible, adapting to varying traffic flows traversing its topology, the optical networks providing the physical link capacity and express paths across the network establishing that topology are largely not:  static wavelength paths manually provisioned in ‘set & forget’ style, burdened with extra margins for near-term growth headroom and end-of-life optics performance.\n\nApplication-aware Edge IP Fabric: With the envisaged advent of new edge-applications, like the Metaverse, that require stringent and predictable performance, it is expected that the ongoing transition of the network from providing universal connectivity to incorporating a wide-range of in-network services will accelerate.\n\n"
+                  },
+                  {
+                    "figure": {
+                      "src": "img/vlcsnap-2023-10-20-12h36m06s621.jpg",
+                      "caption": "Multiple fibers can be used to increase capacity but this requires expanding the cables that require them.\n\nMulti-Mode Fiber.  To save space, lets put more signals in each fiber.  "
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 740,
+              "y": 90
+            }
+          },
+          "artifact": [
+            {
+              "caption": "provide caption for essential fabric.",
+              "loc": {
+                "x": 475,
+                "y": 240,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        },
+        {
+          "topicId": "wir-acc",
+          "title": "6G Communication and Sensing",
+          "intro": "By 2030 the 6th generation of mobile networks will be ready for deployment and will take performance for communication services to the next level. In addition, 6G will be the 1st system systematically co-designed for services beyond communication such as sensing to create the foundation for fusion of physical and digital worlds.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "figure": {
+                      "src": "img/6G_1.jpg",
+                      "caption": "A multi-band large scale antenna array.  This array is one component of the Large Scale Antenna System (LSAS) that will facilitate the roll out of massive MIMO."
+                    }
+                  },
+                  {
+                    "text": "The lifecycle of a mobile network generation has typically been 10 years or so. There is broad consensus that this will also apply to 6G as the next generation ahead, with specification/ standardization forecasted to start in 2025 and commercial deployment from 2030 onwards. 6G includes new spectral technologies and spectrum above 100 GHz as well as a novel air interface optimized through AI and machine learning to take throughput, capacity and latency to another level. In addition, 6G will be co-designed for both communications and sensing."
+                  },
+                  {
+                    "text": "Like the wireless network also wireline fiber optical networks can be utilized as large, distributed sensors. Through measurements on light propagation, it is possible to detect and localize fiber disturbances anywhere in the network for applications such as preventing or avoiding fiber breaks and sensing the environment for seismic or human activity (2). Finally, the network-based sensing data will be fused with data generated from billions of connected sensors and form the foundation for novel use cases and revenue streams in the context of digitally twinning the physical world."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/6G_2.png",
+                      "caption": "Network as ubiquitous sensor for digital-physical fusion"
+                    }
+                  },
+                  {
+                    "text": "D-Band Backhaul-on-Glass & Phased Array-on-Glass\n\nBell Labs Backhaul & Phased Array on Glass modules represent a leap in near-THz integration of highly integrated Silicon based transceivers and next generation packaging technology. The glass substrate not only acts as the interposer for the integrated circuits, but also provides crucial functions such as RF transitions, filters, diplexers, antennas and RF power distribution. The module accomplishes this at the lowest loss and highest lithography which enables a platform for near-THz operation into hundreds of gigahertz."
+                  },
+                  {
+                    "figure": {
+                      "src": "img/6G_3.jpg",
+                      "caption": "Near -THz Radio on Glass"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 670,
+              "y": 50.00000000000001
+            }
+          },
+          "artifact": [
+            {
+              "caption": "",
+              "loc": {
+                "x": 346,
+                "y": 702,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        },
+        {
+          "topicId": "ult-hig",
+          "title": "Network of Networks",
+          "intro": "The future network will consist of many sub-networks heterogenous in dimensions of technology, spectrum, coverage and ownership models. The “Network of Networks” architecture hides this heterogeneity and enables seamless services experiences for users and machines. Moreover, it turns heterogeneity into an advantage and combines multiple access options to aggregate capacity, increase reliability and/or security.",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "text": "The concept of heterogeneous networks is not new and already an important design principle for mobile and wireline networks in the last decade. For example, macro and small cell site grids are used in combination to provide high capacity where needed and wide coverage at the same time. A wide range of spectrum choices from <1GHz up to mmWave are available today and can be used to create aggregated communication channels. Multiple radio generations 2G/3G/4G/5G are still co-existing in many service provider networks. Even different radio technologies such as 3GPP cellular, Bluetooth and IEEE Wi-Fi are integrated into the same devices. Similar heterogeneity exists on the side of wireline access, where multiple largely different technologies have evolved over decades in the networks and will remain an important part of the essential fabric for many years to come."
+                  },
+                  {
+                    "text": "By 2030 this heterogenous network design principle will evolve further along multiple dimensions:\n\n•  On the coverage grid, emerging technologies such as distributed mMIMO, cell-free and sub-THz communication will create a new ultra-dense layer for extreme-network performance.\n\n•  Non-terrestrial networks based on satellites or high-altitude platforms will add a layer of extreme coverage for fixed, mobile and IoT use cases on top of terrestrial networks for enhanced global coverage and improved redundancy.\n\n•  Introduction of 6G will further increase the range of technology and spectrum options, which will co-exist with the large installed base of deployed technology generations for a long time.\n\n•  Also on wireline access, new system generations are being developed, but not entirely replacing existing system generations all at once. Different system variants and technologies of similar type will coexist in networks (e.g., ITU-T GPON family and IEEE EPON family), at least when considering the network at large. Finally, different system generations of the same type (e.g., GPON family), having different capabilities, such as transport capacity and optical power budget, will coexist within a given network\n\n\n \n"
+                  },
+                  {
+                    "figure": {
+                      "src": "img/ult-hig.jpg",
+                      "caption": "Micro Mirrors on the Photonic Cross Connect"
+                    }
+                  },
+                  {
+                    "video": {
+                      "src": "video/ult-hig.mp4",
+                      "caption": "Photonic Cross Connect demonstration"
+                    }
+                  },
+                  {
+                    "figure": {
+                      "src": "img/ult-hig-1.jpg",
+                      "caption": "Press Release  on Bell Labs Terabit Transponder "
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 320,
+              "y": 280
+            }
+          },
+          "artifact": [
+            {
+              "caption": "",
+              "loc": {
+                "x": 1519,
+                "y": 625,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        },
+        {
+          "topicId": "net-bra",
+          "title": "Frictionless Networks",
+          "intro": "",
+          "deepDive": {
+            "columns": [
+              {
+                "item": [
+                  {
+                    "figure": {
+                      "src": "img/frictionless_1.jpg",
+                      "caption": " A new cognitive infrastructure plane for networks"
+                    }
+                  },
+                  {
+                    "video": {
+                      "src": "video/net-bra.mp4",
+                      "caption": "Network Slice Life Cycle Management"
+                    },
+                    "text": "Four key components of a frictionless network are:\n\nUnified multi-stakeholder orchestration: The world is increasingly shifting toward decentralized multi-stakeholder solutions involving wholesale access, cloud, interconnect, transport, and satellite network providers as well as localized private networks.  Automated application-driven orchestration of solutions spanning all of these entities, and supporting as-a-Service business models (including decentralized blockchain-enabled business models), will be both critical for accelerating digital innovation and challenging to achieve.  AI/ML and distributed ledger technology are two keys to realize this level of orchestration automation and ecosystem co-creation."
+                  },
+                  {
+                    "text": "AI-native Network: Today AI is being leveraged for a variety of network optimizations via purpose-built add-on applications typically running in centralized DCs, which limit the scope, sophistication, and rapid closed loop timescales as well as the development efficiency possible.  Future networks will leverage AI natively and comprehensively, including replacing traditional algorithmic function implementations and powering predictive orchestration automation at many levels.\nTo realize this, networks will adopt a ‘Cognitive Data Fusion Plane’ (in addition to the well-established user, control and management planes) designed to drive advanced AI-native solutions, as well as facilitating the data needs of more conventional algorithmic optimizations.  This new plane will introduce flexible AI-optimized data ingestion, transformation, multi-stakeholder data fusion, and secure exposure as a systemic capability throughout the network.  This will significantly elevate the impact of AI and extend its application to real-time control loops.\n"
+                  },
+                  {
+                    "text": "Intelligent Security & Privacy: Traditional security architectures focused on perimeter-based security based on a central authority, implicit trust zones, and a centralized vulnerability inventory to detect and deflect intrusions and attacks.  This reactive security approach becomes increasingly untenable in flexibly composed multi-stakeholder solutions regularly crossing entity boundaries.  \nIn its place will rise a new security/privacy architecture with distributed authority, applying ‘zero trust’ principles between all functions, and armed with both continuous threat intelligence feeds and AI/ML-powered diagnostic and mitigation engines.\n"
+                  },
+                  {
+                    "text": "Network Digital Twin: Network control and management capabilities today are largely siloed by domain, though end-to-end network and service orchestration is starting to emerge and as described above will extend to multi-stakeholder use cases.  But for complex higher-order optimizations to be realized, a comprehensive and wholistic model of the network is needed, one which allows insights-visualization to anticipate needs and actions, and then sandboxing, assessment and trialing of potential high-impact optimizations to assess outcomes prior to operationalization.  Such a network digital twin will symbiotically leverage and complement data and localized insights from the Cognitive Data Fusion Plane and heighten the effectiveness and efficiency gains of orchestration.  Cross-twin interactions could extend these gains to multi-stakeholder solutions, as well as incorporate more specialized in-depth twins such as for radio environment simulation."
+                  }
+                ]
+              }
+            ]
+          },
+          "contentsBox": {
+            "topLeftLoc": {
+              "x": 390,
+              "y": 334
+            }
+          },
+          "artifact": [
+            {
+              "loc": {
+                "_comment": "no artifact",
+                "x": 1375,
+                "y": 165,
+                "d": 1
+              },
+              "show": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
